@@ -12,3 +12,7 @@
 <p>&nbsp&nbsp&nbsp • yarn install </p>
 <br>
 <p>&nbsp&nbsp&nbsp • yarn start </p>
+<br>
+<p>&nbsp&nbsp&nbsp • escaneie o QR Code com o Expo App (android) </p>
+<br>
+<p>&nbsp&nbsp&nbsp • ou com a câmera (iOS) </p>
